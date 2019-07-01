@@ -1,4 +1,4 @@
-FROM linuxserver/deluge:136
+FROM linuxserver/deluge
 
 LABEL maintainer="Dang Mai <contact@dangmai.net>"
 
