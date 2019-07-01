@@ -1,4 +1,4 @@
-FROM linuxserver/deluge
+FROM linuxserver/deluge:5b398f77-ls22
 
 LABEL maintainer="Dang Mai <contact@dangmai.net>"
 
